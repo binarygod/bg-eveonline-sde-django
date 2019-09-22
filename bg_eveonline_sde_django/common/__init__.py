@@ -1,1 +1,0 @@
-name = "bg-eveonline-sde-django.common"
