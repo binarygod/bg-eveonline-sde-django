@@ -19,3 +19,4 @@ class Region(models.Model):
 
     class Meta:
         db_table = 'mapRegions'
+        managed = False
